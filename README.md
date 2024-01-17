@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/riteshr1310" target="blank"><img src="https://img.shields.io/twitter/follow/riteshr1310?logo=twitter&style=for-the-badge" alt="riteshr1310" /></a> </p>
 
-- 💬 Ask me about **DSA, Flutter**
+- 💬 Ask me about **DSA, Flutter, NodeJs**
 
 - 📫 How to reach me **ranjanritesh13102001@gmail.com**
 
