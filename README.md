@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/riteshr1310" target="blank"><img src="https://img.shields.io/twitter/follow/riteshr1310?logo=twitter&style=for-the-badge" alt="riteshr1310" /></a> </p>
 
-- 💬 Ask me about **DSA, Flutter, NodeJs**
+- 💬 Ask me about **MERN, DSA, Flutter**
 
-- 📫 How to reach me **ranjanritesh13102001@gmail.com**
+- 📫 How to reach me **ranjan.official1310@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XqvAnzZ2xQyXfOHQ4TBZthKgeD0r4Rin/view?usp=sharing](https://drive.google.com/file/d/1XqvAnzZ2xQyXfOHQ4TBZthKgeD0r4Rin/view?usp=sharing)
 
