@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/riteshr1310" target="blank"><img src="https://img.shields.io/twitter/follow/riteshr1310?logo=twitter&style=for-the-badge" alt="riteshr1310" /></a> </p>
 
-- 💬 Ask me about **MERN, DSA, Flutter**
+- 💬 Ask me about **Backend Development, DSA**
 
 - 📫 How to reach me **ranjan.official1310@gmail.com**
 
